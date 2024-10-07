@@ -1,0 +1,28 @@
+body{
+    background-image: url(back1.jpg);
+    background-size: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 120vh;
+}
+input{
+    border:  solid green;
+    border-radius: 10px;
+    width: 200px;
+    padding: 10px 20px;
+}
+textarea {
+    border-radius: 4px;
+    padding: 10px;
+    border-color: green;
+    border-width: 2px;
+    width: 300;
+    height: 200;
+}
+input {width: 300; 
+
+}
+    input[type=submit] {
+    background-color: green;
+}
